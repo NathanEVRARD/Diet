@@ -1,0 +1,327 @@
+Pain gris;9;1,7;47,3;4,5;39;1,7;0
+Pain complet;11,4;1,9;41,9;6,7;35;2,6;0
+Pain multicereales;9,9;3,1;44,4;4,2;50;2,1;0
+Pain blanc;8,4;1,4;51,2;2,9;23;1;0
+Baguette grise;9,6;9,3;45,7;3,8;76;1,3;0
+Baguette blanche;8,5;1,3;50,5;2,2;27;1,1;0
+Biscotte;12,3;6,1;73,6;4;31;2,6;0
+Biscotte complete;13;3,2;73;9,1;27;2,1;0
+Cracotte;10;3,6;73,7;4,4;42,3;1;0
+Ciabatta;8,4;1,9;48;3,1;41;1,1;0
+Flocons d'avoine;13,5;7;58,7;10;41;4,2;0
+Muesli tendre enrichi (aux fruits);9,5;5,7;64,2;9,2;53;4,2;0
+Cereales au miel, enrichies;8,8;3,4;75,4;6,1;232;10;0
+Cereales au chocolat, enrichis;8,3;3,3;78;5;264;7,5;0
+Cornflakes, enrichis;8;1;82,2;3;4;7;0
+Ble;12,1;1,7;71,9;5,4;55;0;0
+Pates blanches;12;1,5;71,3;2,6;31;2,5;0
+Riz blanc ;7,4;1,1;76,5;1;11;0,6;0
+Semoule de ble dure;11,7;1,4;71,2;3,8;16;2;0
+Pomme de terre;2,2;0,3;15,1;1,2;6;0,4;13
+Quinoa;13,6;4,7;64,6;7,2;57;6,3;0
+Pates completes;12,9;2,9;63,6;9,3;39;3,9;0
+Riz brun;7,7;2,4;72,2;3,1;18;2,6;0
+Ble;12,1;1,7;71,9;5,4;55;0;0
+Semoule de ble dure;11,7;1,4;71,2;3,8;16;2;0
+Pomme de terre;2,2;0,3;15,1;1,2;6;0,4;13
+Quinoa;13,6;4,7;64,6;7,2;57;6,3;0
+Riz brun;7,7;2,4;72,2;3,1;18;2,6;0
+Pates blanches;12;1,5;71,3;2,6;31;2,5;0
+Frites precuites, graisse vegetale;4,5;7,1;38,3;0;18;0,8;0
+Frites precuites, graisse vegetale;4,5;7,1;38,3;0;18;0,8;0
+Croquettes precuites;3,1;10,9;25,9;2,6;39;1,4;5
+Rosti precuit, au four;1,9;7,4;22,8;2;15;0,4;0
+legumes moyenne Nubel;1,3;0;2,2;2,2;41;0,5;20
+legumineuses deshydratees moyenne Nubel;22;1,7;44;21,2;98;7,1;0
+melanges fruits agrumes moy Nubel;0,9;0;7,5;1,7;28;0,1;30
+melange fruits frais moy Nubel;0,7;0;11,3;2,3;9;0,2;4
+melange fruits exotiques moy Nubel;1;0;11,4;1,4;8;0,2;26
+noix amandes non grille moy Nubel;21,1;50,1;6,9;12,9;252;4,1;0
+Artichaut;2;0;9,5;1,5;53;1,5;8
+Asperge;1;0;3;1,7;20;1;30
+Aubergine;1;0;3;2,5;10;0,5;10
+Brocoli;3;0;2;3,1;43;0,7;110
+Carotte;0,4;0;6,7;3,2;30;0,3;4
+Celeri vert;0,7;0;7,7;1,6;50;0,1;3
+Celeri rave;2;0;5;4,9;59;0,7;12
+Champignon;2,3;0;0,4;1,5;25;0,2;4
+Chicon;1,7;0;2,2;2,2;15;0,2;2
+Chou de Bruxelles;3,3;0,3;4,1;8,2;41;0,8;97
+Chou rouge;0,8;0;2;2,6;41;0,4;58
+Chou vert;3;1;4;2,2;75;1;80
+Chou fleur;2;0;2,2;2,9;30;0,5;58
+Concombre;0,8;0;1,2;0,7;18;0,2;0
+Courgette;1,2;0,1;1,8;1,1;16;0,5;15
+Epinards;1,9;0,5;0,7;1,3;93;2;46
+Fenouil;1,1;0,2;2,3;2,1;37;0,5;9
+Haricot princesse;2,8;0;4,5;2,9;58;0,4;6
+Navet;1;0,2;4,7;3,5;45;0,4;20
+Oignon;1,5;0;1,5;3;28;0,2;8
+Petits pois;4;0;10;5,2;20;2;25
+Poireau;1;0;8,8;3,1;31;0,5;10
+Poivron rouge;1;0;6;1,8;7;0,4;155
+Tomate;0,9;0;1,9;1,3;10;0,3;14
+Haricot blanc;20;1,7;43;28,6;80;5;2
+Haricot rouge;27,1;1,4;37,3;28,6;81;6,1;1
+Lentilles;24;1;48,3;18;53;8,6;0
+Pois chiche;21,1;5,4;44,8;21,4;115;5,9;0
+lentilles en conserve;6,3;0,6;11,8;4;21;1,7;0
+haricots rouges en conserve;8,3;1;13;7;58;1,5;0,2
+pois chiches en conserve;6,7;2,7;15;5,5;41,2;1,2;0,1
+Haricot blanc en conserve;6,6;0,7;12,3;6,8;41;1,4;1
+Noisette;14;67,5;6;8,2;200;3;6
+Noix;15;67;2,7;6,7;92;2,1;1
+Noix de cajou;18,2;43,8;29,8;2,9;28;6;1
+Noix de pecan;9,2;71;5,1;9,5;64;2;1
+Noix du Bresil;15;67;5;9;175;4;0
+Amande;21,1;50,1;6,9;12,9;252;4,1;0
+Pistache;20,6;44,4;9,3;10,3;107;4,2;5
+grianes de lin ;19,9;36,8;7,5;29,9;207;6,9;0
+graine de courge;24,4;45,6;15,2;5,3;39;10;0
+pignon de pin;13,7;68,4;5;3,7;16;5,5;10
+Abricot;1;0;9;1,8;13;0,3;3
+Ananas;0,6;0;11,6;1,3;35;0,2;8
+Banane;1,1;0;19,6;1,7;5;0,3;7
+Clementine;0,8;0;7,1;1,5;30;0,1;15
+Fraise;7;0;5,2;1,3;8;0,2;49
+Framboise;1;0;7;7,4;40;1;25
+Kiwi;1,2;0,7;14,7;3;27;0,2;85
+Mandarine;0,9;0;9,5;1,9;24;0,1;30
+Mangue;1,6;0;14,1;1,4;8;0,2;26
+Melon (Cavaillon);1,2;0;11,1;0,8;5;0,1;13
+Nectarine;0,6;0;8,1;2,1;5;0,2;6
+Orange;1,1;0;8,5;1,6;48;0,1;45
+Pamplemousse;1,2;0;6,5;2,6;15;0,1;44
+Pasteque;2;0;5,2;0,6;7;0,2;5
+Peche;0,8;0;6,4;2,2;6;0,2;9
+Poire;0,7;0;9,2;2,4;10;0,2;3
+Pomme;0,2;0;11,3;2,3;5;0,2;4
+Prune;0,4;0;7;2,7;4;0,2;2
+Raisin;0,5;0;13,8;1,4;10;0,7;2
+orange ;1,1;0;8,5;1,6;48;0,1;45
+kiwi;1,2;0,7;14,7;3;27;0,2;85
+fraises;7;0;5,2;1,3;8;0,2;49
+framboises;1;0;7;7,4;40;1;25
+fraises;7;0;5,2;1,3;8;0,2;49
+mures;1;1;6;7,3;60;1;12
+myrtilles;1;0;6;7,3;15;1;10
+Huile de colza (Olive);0,3;100;0,3;0;8;0,1;0
+Beurre;0,5;82;0,5;0;17;0,1;0
+Mayonnaise a huile de colza;1,5;78,9;0,5;0,3;0;0;0
+Mayonnaise allegee;0,9;30;9;0,2;47,4;0,4;0
+sauce vinaigrette nubel;0,9;51,8;1,4;0;0,9;0,2;0
+sauce vinaigrette light nubel (non sucree);0,4;24,6;4,5;0,7;24;0,2;0
+Creme 35%;2,2;35;3,1;0;76;5,9;1
+Creme 20%;2,7;20,2;5,3;0,1;125;1,9;1
+Huile de colza (Olive);0,3;100;0,3;0;8;0,1;0
+Beurre;0,5;82;0,5;0;17;0,1;0
+Mayonnaise a huile de colza;1,5;78,9;0,5;0,3;0;0;0
+Mayonnaise allegee;0,9;30;9;0,2;47,4;0,4;0
+sauce vinaigrette Nubel;0,9;51,8;1,4;0;9;0,2;0
+sauce vinaigrette light Nubel (non sucree);0,4;24,6;4,5;0,7;24;0,2;0
+Creme 35%;2,2;35;3,1;0;76;5,9;1
+Creme 20%;2,7;20,2;5,3;0,1;125;1,9;1
+Huile de colza (Olive);0,3;100;0,3;0;8;0,1;0
+Mayonnaise a huile de colza;1,5;78,9;0,5;0,3;0;0;0
+Mayonnaise allegee;0,9;30;9;0,2;47,4;0,4;0
+sauce vinaigrette Nubel;0,9;51,8;1,4;0;9;0,2;0
+sauce vinaigrette light Nubel (non sucree);0,4;24,6;4,5;0,7;24;0,2;0
+Huile de colza (Olive);0,3;100;0,3;0;8;0,1;0
+Beurre;0,5;82;0,5;0;17;0,1;0
+Creme 40%;2;40;3,3;0;80;0,1;1
+Creme 35%;2,2;35;3,1;0;76;5,9;1
+Creme 20%;2,7;20,2;5,3;0,1;125;1,9;1
+Creme 8%;3,2;9,1;4,3;0;105;0;0
+Beurre;0,5;82;0,5;0;17;0,1;0
+Margarine 80%;0,4;80,4;0,3;0;11,1;0,1;0
+Margarine allegee;0,5;38;0,5;0;20,8;1;0
+Demi beurre sale;1;40,5;1;0,1;11;0;0
+Huile olive;0;100;0;0;0;0;0
+Cuire et roti;0,3;92,5;0,4;0,3;50;0;0
+Huile olive;0;100;0;0;0;0;0
+Fromage de chevre, pate molle;18;29,7;0;0;521;0,2;1
+Fromage fondu au jambon;11,9;21,2;3;0;240;1;0
+Fromage fondu, gras;11;30;3;0;332;0,2;0
+Fromage, Bleu;19,5;29,3;0;0;776;0,2;0
+Fromage, Brie;22,6;23,3;0;0;720;0,2;0
+Fromage, Camembert;21,5;21;0;0;400;0,2;0
+Fromage, Caprice des Dieux;16,5;32,1;0,1;0;277;0,1;0
+Fromage, Chaumes;20;22,7;0;0;471;0,2;0
+Fromage, Cheddar;25,5;32;0,1;0;690;0,3;0
+Fromage, Chimay;23,7;30,7;0;0;871;0,2;0
+Fromage, Comte;28,4;32,6;0;0;905;0,5;0
+Fromage, Emmenthal;28;28,1;0;0;960;0,3;1
+Fromage, Feta au lait de brebis;15;22,1;1,5;0;242;0,1;0
+Fromage, Gorgonzola;19,5;26,9;0;0;403;0,1;0
+Fromage, Gouda;24,5;28;0;0;960;0,3;0
+Fromage, Herve;19,4;26,6;0;0;484;0,2;0
+Fromage, Leerdamer;27,2;26,6;0;0;996;0,1;0
+Fromage, Maredsous;23;27,8;0,5;0;624;0,2;0
+Fromage, Mimolette;27;23,5;0;0;920;0,1;1
+Fromage, Mozzarelle;19,5;19,5;1;0;691;0,2;0
+Fromage, Munster;21,1;28,3;0;0;605;0,2;0
+Fromage, Orval;23;30,8;0;0;703;0,2;0
+Fromage, Parmesan;40;29;2;0;1000;1,1;0
+Fromage, Passendale;22,7;29,4;0;0;648;0,2;1
+Fromage, Pere Joseph;21,3;27,9;0;0;486;0,2;1
+Fromage, raclette;25;27;0;0;696;0,1;0
+Fromage, Reblochon;20,1;26,6;0;0;645;0,1;0
+Fromage, Vacherin;19,9;21;0;0;480;0,1;0
+Fromage, Watou;23;26;0;0;761;0;0
+Fromage de chevre a tartiner;12,2;12,6;3;0;113;0,1;1
+Fromage fondu maigre;14;9;6,5;0;440;0,1;0
+Fromage, Chimay light;28,3;17,4;0;0;713;0,1;0
+Gouda jeune light;28,5;17,8;0;0;996;0,1;0
+Fromage, Edam;26,4;13,2;0;0;710;0,3;1
+Fromage, frais, herbes, pasteurises, light ;8,3;11,5;4,1;0,4;100;0,3;1
+Fromage, ricotta;11,7;11,6;3;0;300;0,4;0
+Fromage Cottage;11,6;4,7;3,1;0;75;0,3;0
+Fromage blanc entier;7,9;3,5;9,2;0;97;0,1;1
+Petit Suisse entier 10G0100G;8,9;9,8;3,7;0;110;0,2;0
+Fromage blanc demi-ecreme;7,3;3,9;3,8;0;115;0,1;1
+Petit Suisse maigre ;9,3;4,6;3,4;0;103;0,1;0
+Yaourt maigre nature;4,4;0,9;6;0;139;0,1;2
+Fromage blanc maigre 0% MG;7,4;0,1;4;0;137;0,2;1
+Yaourt soja nature;4;2,3;2,1;1;120;0,2;0
+Yaourt allege aux fruits, edulcore;4,3;0,3;4,4;1;135;0;0,5
+Pudding edulcore L102 E;3,1;1,5;8,5;0;113,7;0;0
+Lait demi ecreme;3,3;1,6;4,8;0;120;0;2
+Yaourt maigre aux fruits;4;0,9;15,4;0;162;0,1;2
+Creme dessert soja aromatisee;3,2;1,8;13,7;0,5;120;0,3;0
+Creme dessert soja au chocolat;3,3;2,1;14,6;1,4;161;0,9;0
+Pudding maison sucre (1l L102 E, 60 g sucre 50 g poudre);3;1,4;13,5;0;108,2;0;0
+Riz au lait maison sucre (1l L102 E, 60 g sucre , 60 g riz);3,3;1,5;11,6;0,1;107,7;0;0
+PL 50-100 kcal + garniture sucree pr yaourt;6;1,5;13,9;1,1;160,3;0,3;4,7
+Yaourt entier aux fruits;3,6;3,2;13,3;0,2;120;0,1;2
+Creme dessert vanille;3,1;3,3;17,7;0;108;0,6;3
+Creme dessert chocolat;3,6;5,7;19,8;0,9;96;1;1
+Flan au caramel;2,8;2,7;19,7;0,1;94;0,1;2
+Pudding maison sucre (1l L102 E, 60 g sucre 50 g poudre);3;1,4;13,5;0;108,2;0;0
+Riz au lait maison sucre (1l L102 E, 60 g sucre , 60 g riz);3,3;1,5;11,6;0,1;107,7;0;0
+Confiture;0,5;0,5;60;0,9;6;0;5
+Miel;0,3;0;80;0,7;7;0,8;4
+Sirop de Liege;0,6;0,2;69;2;25;2;0
+Confiture;0,5;0,5;60;0,9;6;0;5
+Miel;0,3;0;80;0,7;7;0,8;4
+Sucre;0;0;99,9;0;0;0,3;0
+Sirop d'erable;0;0,1;67,1;0;106;0,1;0
+Fruits frais moyenne Nubel;0,7;0;11,3;2,3;9;0,2;4
+flocon d'avoine;13,5;7;58,7;10;41;4,2;0
+Pate a tartiner aux noisettes;5,3;35,1;55,8;3,2;105;3,6;1
+Chocolat noir ;5,1;31,5;51,8;7,5;46;3,9;0
+Chocolat au lait ;7,8;31;55,9;2,5;225;1,7;1
+Compote, sucre reduit;0,2;0,2;9;1;5;0,2;6
+Confiture, sucre reduit;0,5;0,5;39;1,7;10;0,2;0
+Couque creme vanille raisins;6;14,1;40,6;4,5;23;1,3;1
+Couque chocolat;8,9;23,1;43,8;2,7;41;3,1;0
+Cramique;8;6,8;54;2,6;44;1,6;0
+Croissant;9;22,8;47,3;1,9;18;1,3;0
+Cake au beurre;6,3;23,7;49,5;0,9;15;0,8;1
+Cake au beurre, chocolat;5,8;22,5;52,9;2,5;31;1,2;1
+Cake au beurre, fruit;4,4;20;55;1,1;15;0,9;0
+Madeleine;5,3;21,5;50,5;0,7;0;0;0
+Gauffre nature molle;7;21;65,7;1,5;23;0,9;0
+Pain d'epices;3;1,7;74,7;2,8;9;0,8;0
+Frangipane;4,6;27,6;47,7;4,2;53;1,7;0
+Gauffre chocolat;5,8;26,4;54,5;2;190;0,8;0
+Gauffre de Liege;5,1;22,1;55;0,9;11;3;1
+Speculoos boulangerie;5,7;18,4;72,5;1,3;16;0,6;1
+Tarte au fromage;8,4;5,3;34;0,7;98;1,9;1
+Tarte au riz;5,1;9;37,7;1,7;93;1,4;0
+Tarte aux fruits;2,7;8,3;33,5;7,6;41;0,5;34
+Eclair au chocolat;4,2;10,5;32,2;2,2;81;0,8;0
+Boudoir (3pc);7,1;3,6;84;1,5;20;0,9;0
+Petit beurre (3 pc);7,7;13,2;72,7;2,3;29;0,3;0
+Boeuf, steak;22,8;0,8;0;0;9;2,4;0
+Autruche, steak;22,5;1;1;0;3;2,1;0
+Boeuf, carbonnade;22,6;1,3;0;0;5;1,8;0
+Veau, escalope;21,4;1,8;0;0;4;0,6;0
+Porc, mignonette;20,5;1,9;0;0;7;0,9;0
+Boeuf, cote a l'os;20,8;2;0;0;5;2,3;0
+Boeuf, tournedos;22,4;2;0;0;5;1,5;0
+Porc, filet;19,8;2,3;0;0;8;1,3;0
+Boeuf, rosbif;21;2,9;0;0;3;3;0
+Canard sans peau;22,6;2;0;0;25;4,4;6
+Chevreuil;22,4;3,6;0;0;20;3;0
+Faisan;23,6;3,6;0;0;13;1,2;6
+Agneau, filet;20,8;3,7;0;0;11;1,5;0
+Dindonneau;21,8;4;0;0;6;2;3
+Saucisse de volaille;18,9;5,4;0;0;19;1,1;0
+Hachis bOeuf;20;2,4;0;0;6;2,1;0
+Poulet sans peau;20,5;6,3;0;0;10;0,8;0
+Porc, carbonnarde;19,4;9,9;0;0;5;0,8;0
+Veau, poitrine;19,5;6,5;0;0;11;2,7;0
+Oiseau sans tete;17,9;12,8;0;0,4;9;1;0
+Agneau, cotelette;20,4;9,2;0;0;9;1,5;0
+Porc, cotelette;19,5;9,9;0;0;12;1;0
+Poulet avec peau;19,2;9,3;0;0;12;0,7;3
+Boeuf, entrecote;21,2;9,4;0;0;8;1,5;0
+Lapin;18,6;12,4;0;0;19;4,3;0
+Agneau, epaule;20,8;12;0;0;4;1,4;0
+Hachis volaille;17,8;12;0;0;36;0,8;0
+Hachis boeuf-porc;17,9;14,1;0;0;8;0,9;0
+Porc, spiringue;19,7;15,6;0;0;7;1,1;0
+Saucisse de porc et veau ;18,3;15,3;0;0;40;0,8;0
+Saucisse porc-boeuf;16,6;17,8;0;0;12;1,2;0
+Hachis veau;18,1;11,5;0,6;0;9;1,8;0
+Saucisse de porc;16,3;20;0;0;39;1;0
+Porc, ventre;19,1;20,2;0;0;6;0,6;0
+Boeuf, poitrine;18;21,9;0;0;7;2,5;0
+Pigeon avec peau;18,5;23,8;0;0;12;3,5;5
+Hachis porc-veau;14;24,5;0;0;14;1;3
+Hachis porc;16,9;24,6;0;0;9;2,3;1
+Agneau, poitrine;15;25;0;0;8;1;0
+Filet d'Anvers;21,8;1,3;0,8;0,2;12;1,2;0
+Jambon de dinde;21;2;1;0,4;6;0,4;0
+Jambon de poulet;19,5;3,3;1,2;0,5;6;0,4;0
+blanc de poulet ;22,8;1,3;0;0;10;0,6;0
+Jambon cuit;21,5;2,6;0,7;0,1;5;0,7;11
+Jambon a l'os;21,5;2,5;0,7;0,1;6;0,7;0
+Jambon fume;24,4;7,2;0,5;0,5;6;0,8;0
+americain nature (= hache de bOeuf);20;2,4;0;0;6;2,1;0
+roosbeef;29,7;1,8;0;0;5;1,1;0
+roti porc froid;28,3;6,2;0;0;5;0,8;0
+jambon cru;24,3;2;0,5;0;4;0,7;12
+Filet de Saxe;25;1,9;0,3;0,1;4;0,6;0
+Filet americain PRePARe ;16;19,8;1,7;0,1;10;1,2;0
+Boudin blanc;10;18;8,8;0,5;25;0,9;0
+Pate de campagne;14,9;24,6;2,5;0,7;10;8,4;4
+Pate de foie;12,2;28,3;3,2;0,7;10;7,5;0
+Salami;19,8;29,7;0,3;0,6;15;1;0
+Fletan, noir;13,2;10;0;0;5;0;0
+Hareng;18;16;0;0;63;0,6;0
+Maquereau;18,7;11,9;0;0;12;1,2;0
+Sardines;19,4;12,2;0;0;20;1,2;0
+Saumon;18,4;16,5;0;0;5;0,3;1
+Anchois;20,1;2,3;0;0;82;4,9;0
+Cabillaud;16,4;0,6;0;0;16;0,4;0
+Colin;16,8;0,6;0;0;9;0,2;0
+Coquille St Jaques;15;0,9;3;0;26;1,3;3
+Crabe;18,3;0,6;0;0;46;0,6;7
+Dorade;18,7;2,8;0;0;141;0,8;1
+Ecrevisse;16;0,7;0;0;97;1,8;1
+Eglefin;18,2;0,2;0;0;27;0,8;0
+Espadon;18,1;4,9;0;0;4;0,4;1
+Fletan, blanc;20,1;0,4;0;0;16;0,6;0
+Sebaste;18,8;1,6;0;0;12,5;0,3;0
+Homard;18,2;1,9;0;0;61;0,6;0
+Huitre;10,2;1,8;4,2;0;70;5,8;0
+Langoustine;19,6;1,3;0,8;0;48;2;3
+Lieu noir;17,2;0,5;0;0;14;1;0
+Limande;17,4;1,1;0;0;20;0,8;1
+Lotte;15,5;0,6;0;0;19;1,5;1
+Loup de mer;17,6;0,6;0;0;6;0,9;0
+Merlan;17,4;0,3;0;0;25;0,3;0
+Plie;13,4;1;0;0;39;0,9;0
+Sole;17,5;0,5;0;0;20;0,1;0
+Surimi;7,4;0,5;9,8;0;16;0,4;0
+Thon;27,4;0,5;0;0;12;0,8;0
+Truite;18,4;2,7;0;0;16;0,2;1
+Turbot;16,7;2,6;0;0;17;0,5;0
+Anchois a l'huile ;20;10;0;0;138;2,8;0
+Maquereau a l'huile ;20,5;16,6;0;0,2;21;1,1;0
+Maquereau sauce tomate ;15;10,6;3;1;21;0,9;0
+Sardines sauce tomate;18;12;0,5;0;766;5,6;0
+Sardines a l'huile;24;12,3;0;0;63;1,8;0
+Thon a l'huile;26;11;0;0;5;0,9;0
+Oeufs de poule ;13;11;0;0;91;2,9;0

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m0dH35sGTTesVJhVBBw3ihP8MHdr7X91314XvV9RazVcfT0Ld61GD10Gwwyo7N4GrT/n58muT3zzRMUbAoADcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\natha\\Documents\\Mes Cours\\B2\\Q2\\Labo\\C# Labo\\CS\\WPF\\WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\natha\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,24 @@
+C:\Users\natha\Documents\Mes Cours\B2\Q2\Labo\C# Labo\Alyssia\MaLib\bin\Debug\net7.0\MaLib.deps.json
+C:\Users\natha\Documents\Mes Cours\B2\Q2\Labo\C# Labo\Alyssia\MaLib\bin\Debug\net7.0\MaLib.dll
+C:\Users\natha\Documents\Mes Cours\B2\Q2\Labo\C# Labo\Alyssia\MaLib\bin\Debug\net7.0\MaLib.pdb
+C:\Users\natha\Documents\Mes Cours\B2\Q2\Labo\C# Labo\Alyssia\MaLib\obj\Debug\net7.0\MaLib.csproj.AssemblyReference.cache
+C:\Users\natha\Documents\Mes Cours\B2\Q2\Labo\C# Labo\Alyssia\MaLib\obj\Debug\net7.0\MaLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Documents\Mes Cours\B2\Q2\Labo\C# Labo\Alyssia\MaLib\obj\Debug\net7.0\MaLib.AssemblyInfoInputs.cache
+C:\Users\natha\Documents\Mes Cours\B2\Q2\Labo\C# Labo\Alyssia\MaLib\obj\Debug\net7.0\MaLib.AssemblyInfo.cs
+C:\Users\natha\Documents\Mes Cours\B2\Q2\Labo\C# Labo\Alyssia\MaLib\obj\Debug\net7.0\MaLib.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\Mes Cours\B2\Q2\Labo\C# Labo\Alyssia\MaLib\obj\Debug\net7.0\MaLib.dll
+C:\Users\natha\Documents\Mes Cours\B2\Q2\Labo\C# Labo\Alyssia\MaLib\obj\Debug\net7.0\refint\MaLib.dll
+C:\Users\natha\Documents\Mes Cours\B2\Q2\Labo\C# Labo\Alyssia\MaLib\obj\Debug\net7.0\MaLib.pdb
+C:\Users\natha\Documents\Mes Cours\B2\Q2\Labo\C# Labo\Alyssia\MaLib\obj\Debug\net7.0\ref\MaLib.dll
+C:\Users\natha\OneDrive\Documents\Mes Cours\C#\CS\MaLib\bin\Debug\net7.0\MaLib.deps.json
+C:\Users\natha\OneDrive\Documents\Mes Cours\C#\CS\MaLib\bin\Debug\net7.0\MaLib.dll
+C:\Users\natha\OneDrive\Documents\Mes Cours\C#\CS\MaLib\bin\Debug\net7.0\MaLib.pdb
+C:\Users\natha\OneDrive\Documents\Mes Cours\C#\CS\MaLib\obj\Debug\net7.0\MaLib.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Documents\Mes Cours\C#\CS\MaLib\obj\Debug\net7.0\MaLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Documents\Mes Cours\C#\CS\MaLib\obj\Debug\net7.0\MaLib.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Documents\Mes Cours\C#\CS\MaLib\obj\Debug\net7.0\MaLib.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Documents\Mes Cours\C#\CS\MaLib\obj\Debug\net7.0\MaLib.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documents\Mes Cours\C#\CS\MaLib\obj\Debug\net7.0\MaLib.dll
+C:\Users\natha\OneDrive\Documents\Mes Cours\C#\CS\MaLib\obj\Debug\net7.0\refint\MaLib.dll
+C:\Users\natha\OneDrive\Documents\Mes Cours\C#\CS\MaLib\obj\Debug\net7.0\MaLib.pdb
+C:\Users\natha\OneDrive\Documents\Mes Cours\C#\CS\MaLib\obj\Debug\net7.0\ref\MaLib.dll
