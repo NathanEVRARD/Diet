@@ -14,5 +14,18 @@ namespace WPF
         {
             InitializeComponent();
         }
+
+        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        {
+            
+        }
+
+        private void Window_Closed(object sender, System.EventArgs e)
+        {
+            var viewModel = DataContext as MainWindowViewModel;
+            viewModel.SaveCSVAliments("aliments.txt");
+            viewModel.SaveClients("clients.txt");
+            viewModel.SaveClientNum("clientNum.txt");
+        }
     }
 }

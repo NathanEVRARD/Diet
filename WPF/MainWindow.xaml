@@ -7,7 +7,7 @@
         xmlns:vms="clr-namespace:WPF.MVVM.ViewModel"
         xmlns:local="clr-namespace:WPF"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" Background="#cccccc">
+        Title="MainWindow" Height="450" Width="800" Background="#cccccc" Closing="Window_Closing" Closed="Window_Closed">
 
     <Window.Resources>
         <Style TargetType="Button">

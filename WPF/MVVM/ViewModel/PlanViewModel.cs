@@ -20,8 +20,20 @@ namespace WPF.MVVM.ViewModel
         private ClientViewModel _client;
         private IngredientViewModel _selectedIngredient;
         private bool _isIngredientSelected;
+        private IngredientViewModel total;
+        public IngredientViewModel Total
+        {
+            get { return total; }
+            set
+            {
+                total = value;
+                OnPropertyChanged();
+            }
+        }
 
         public ICommand AjouterIngredientCommand { get; }
+        public ICommand CalculerTotalCommand { get; }
+        public ICommand SupprimerIngredientCommand { get; }
 
         public IngredientViewModel SelectedIngredient
         {
@@ -55,9 +67,13 @@ namespace WPF.MVVM.ViewModel
         {
             _client = client;
             _aliments = aliments;
-            _ingredients = new ObservableCollection<IngredientViewModel>();
+            _ingredients = client.Plan;
+            total = new IngredientViewModel();
             AjouterIngredientCommand = new AjouterIngredientCommand(_aliments, _ingredients);
+            CalculerTotalCommand = new CalculerTotalCommand(_ingredients, Total);
+            SupprimerIngredientCommand = new SupprimerIngredientCommand(_ingredients);
             _navigationStore = navigationStore;
+            
         }
     }
 }

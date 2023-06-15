@@ -49,30 +49,15 @@ namespace WPF.MVVM.ViewModel
             }
         }
 
-        public ClientsListingViewModel(ObservableCollection<AlimentViewModel> aliments, NavigationStore navigationStore)
+        public ClientsListingViewModel(ObservableCollection<AlimentViewModel> aliments, ObservableCollection<ClientViewModel> clients, NavigationStore navigationStore)
         {
-            Client.idCourant = 1;
-            _clients = new ObservableCollection<ClientViewModel>();
+            _clients = clients;
             _navigationStore = navigationStore;
             _aliments = aliments;
-
 
             AjouterClientCommand = new AjouterClientCommand(_clients);
             SupprimerClientCommand = new SupprimerClientCommand(_clients);
             NavigatePlanCommand = new NavigateCommand<PlanViewModel>(navigationStore, () => new PlanViewModel(_selectedClient, _aliments, navigationStore));
-
-            Client nathan = new Client("Evrard", "Nathan", 173, 63);
-            Client alyssia = new Client("Dubuffet", "Alyssia", 160, 52);
-            alyssia.Naissance = new DateTime(2002, 12, 17);
-            nathan.Pathologies = new ObservableCollection<String>();
-            nathan.Pathologies.Add(new String("Insuffisance reinale"));
-            nathan.Pathologies.Add(new String("Diabète"));
-            nathan.Naissance = new DateTime(2002, 11, 20);
-            for (int i = 0; i < 10; i++)
-            {
-                _clients.Add(new ClientViewModel(nathan));
-                _clients.Add(new ClientViewModel(alyssia));
-            }
         }
     }
 }

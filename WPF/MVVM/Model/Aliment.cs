@@ -14,15 +14,51 @@ namespace MaLib
         private float calcium = 0;
         private float vitC = 0;
 
-        public String Nom { get; set; }
-        public float Lipides { get; set; }
-        public float Glucides { get; set; }
-        public float Fibres { get; set; }
-        public float Proteines { get; set; }
-        public float Kcal { get; set; }
-        public float Fer { get; set; }
-        public float Calcium { get; set; }
-        public float VitC { get; set; }
+        public String Nom 
+        {
+            get { return nom; }
+            set { nom = value; }
+        }
+        public float Lipides 
+        {
+            get { return lipides; }
+            set { lipides = value; }
+        }
+        public float Glucides 
+        {
+            get { return glucides; }
+            set { glucides = value; }
+       }
+        public float Fibres 
+        {
+            get { return fibres; }
+            set { fibres = value; }
+        }
+        public float Proteines 
+        {
+            get { return proteines; }
+            set { proteines = value; }
+        }
+        public float Kcal 
+        {
+            get { return kcal; }
+            set { kcal = value; }
+        }
+        public float Fer 
+        {
+            get { return fer; }
+            set { fer = value; }
+        }
+        public float Calcium 
+        {
+            get { return calcium; }
+            set { calcium = value; }
+        }
+        public float VitC 
+        {
+            get { return vitC; }
+            set { vitC = value; }
+        }
 
 
         public Aliment() : this("Aliment", 0, 0, 0, 0){}

@@ -13,11 +13,15 @@ namespace WPF.MVVM.ViewModel
     public class ClientViewModel : ViewModelBase
     {
         private Client _model;
+        private ObservableCollection<IngredientViewModel> _plan;
 
         public ClientViewModel(Client c) 
         {
             this._model = c;
+            _plan = new ObservableCollection<IngredientViewModel>();
         }
+
+        public Client Model { get { return _model; } } 
 
         public int Id
         {
@@ -57,12 +61,12 @@ namespace WPF.MVVM.ViewModel
                 OnPropertyChanged();
             }
         }
-        public ObservableCollection<Ingredient> Plan
+        public ObservableCollection<IngredientViewModel> Plan
         {
-            get { return _model.Plan; }
+            get { return _plan; }
             set
             {
-                _model.Plan = value;
+                _plan = value;
                 OnPropertyChanged();
             }
         }
@@ -107,7 +111,7 @@ namespace WPF.MVVM.ViewModel
 
         public ClientViewModel()
         {
-
+            _plan = new ObservableCollection<IngredientViewModel>();
         }
     }
 }

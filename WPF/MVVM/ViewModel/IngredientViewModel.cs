@@ -16,6 +16,11 @@ namespace WPF.MVVM.ViewModel
 
         private readonly Dictionary<String, List<String>> _propertyErrors = new Dictionary<String, List<String>>();
 
+        public IngredientViewModel()
+        {
+            _model = new Ingredient();
+        }
+
         public IngredientViewModel(Ingredient model)
         {
             _model = model;
@@ -27,6 +32,7 @@ namespace WPF.MVVM.ViewModel
             _model.Nom = model.Nom;
             _model.Lipides = model.Lipides;
             _model.Proteines = model.Proteines;
+            _model.Glucides = model.Glucides;
             _model.Fer = model.Fer;
             _model.VitC = model.VitC;
             _model.Fibres = model.Fibres;
@@ -102,13 +108,13 @@ namespace WPF.MVVM.ViewModel
                     FqCalcium = _model.CalculFrequence(_model.Calcium, _model.Frequence, value);
                     FqFer = _model.CalculFrequence(_model.Fer, _model.Frequence, value);
                     FqVitC = _model.CalculFrequence(_model.VitC, _model.Frequence, value);
-                    Glucides = _model.Glucides / _model.Quantite * _model.Quantite;
-                    Proteines = _model.Proteines / _model.Quantite * _model.Quantite;
-                    Lipides = _model.Lipides / _model.Quantite * _model.Quantite;
-                    Fibres = _model.Fibres / _model.Quantite * _model.Quantite;
-                    Calcium = _model.Calcium / _model.Quantite * _model.Quantite;
-                    Fer = _model.Fer / _model.Quantite * _model.Quantite;
-                    VitC = _model.VitC / _model.Quantite * _model.Quantite;
+                    //Glucides = _model.Glucides / _model.Quantite * _model.Quantite;
+                    //Proteines = _model.Proteines / _model.Quantite * _model.Quantite;
+                    //Lipides = _model.Lipides / _model.Quantite * _model.Quantite;
+                    //Fibres = _model.Fibres / _model.Quantite * _model.Quantite;
+                    //Calcium = _model.Calcium / _model.Quantite * _model.Quantite;
+                    //Fer = _model.Fer / _model.Quantite * _model.Quantite;
+                    //VitC = _model.VitC / _model.Quantite * _model.Quantite;
                     _model.Frequence = value;
                     OnPropertyChanged();
                 }

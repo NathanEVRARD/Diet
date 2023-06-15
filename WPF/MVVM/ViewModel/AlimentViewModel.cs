@@ -18,6 +18,8 @@ namespace WPF.MVVM.ViewModel
 
         private int arrondi = 1;
 
+        public Aliment Model { get { return this._model; } }
+
         public String Nom
         {
             get { return _model.Nom; }

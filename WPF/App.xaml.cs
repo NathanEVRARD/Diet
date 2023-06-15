@@ -19,8 +19,6 @@ namespace WPF
         {
             NavigationStore navigationStore = new NavigationStore();
 
-            navigationStore.CurrentViewModel = new ClientsListingViewModel(new ObservableCollection<AlimentViewModel>(), navigationStore);
-
             MainWindow = new MainWindow()
             {
                 DataContext = new MainWindowViewModel(navigationStore)

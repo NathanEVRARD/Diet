@@ -1138,7 +1138,8 @@
       },
       "WPF/1.0.0": {
         "dependencies": {
-          "CsvHelper": "30.0.1"
+          "CsvHelper": "30.0.1",
+          "Newtonsoft.Json": "10.0.3"
         },
         "runtime": {
           "WPF.dll": {}

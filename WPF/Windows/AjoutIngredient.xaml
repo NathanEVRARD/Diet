@@ -31,6 +31,10 @@
                 <DataGridTextColumn Header="VitC" Binding="{Binding VitC, Mode=OneWay}"></DataGridTextColumn>
             </DataGrid.Columns>
         </DataGrid>
+        <StackPanel Margin="5, 5, 0, 0" VerticalAlignment="Top" HorizontalAlignment="Left">
+            <Label Content="Rechercher :"></Label>
+            <TextBox Name="ChampRecherche" TextChanged="ChampRecherche_OnTextChanged"></TextBox>
+        </StackPanel>
         <Button Height="35" Width="200" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,18,0,0" Content="Ajouter un client" Command="{Binding AjoutIngredientCommand}" CommandParameter="{Binding SelectedAliment}" Grid.Row="1" IsEnabled="{Binding IsSelectedAliment}"/>
     </Grid>
 </Window>

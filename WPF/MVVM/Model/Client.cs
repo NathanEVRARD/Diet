@@ -11,7 +11,7 @@ namespace MaLib
 {
     public class Client
     {
-        public static int idCourant = 1;
+        private static int idCourant = 1;
         private int id = 1;
         private String nom;
         private String prenom;
@@ -28,14 +28,52 @@ namespace MaLib
             set { id = value; }
         }
 
-        public String Nom { get; set; }
-        public String Prenom { get; set; }
-        public int Taille { get; set; }
-        public float Poids { get; set; }
-        public float Bmi { get; set; }
-        public ObservableCollection<Ingredient> Plan { get; set; }
-        public ObservableCollection<String> Pathologies { get; set; }
-        public DateTime Naissance { get; set; }
+        public String Nom 
+        {
+            get { return nom; }
+            set { nom = value; }
+        }
+        public String Prenom 
+        {
+            get { return  prenom; }
+            set { prenom = value; }
+        }
+        public int Taille 
+        {
+            get { return taille; } 
+            set { taille  = value; }
+        }
+        public float Poids
+        {
+            get { return poids; }
+            set { poids = value; }
+        }
+        public float Bmi 
+        {
+            get { return bmi; }
+            set { bmi = value; }
+        }
+        public ObservableCollection<Ingredient> Plan 
+        {
+            get { return plan; }
+            set { plan = value; }
+        }
+        public ObservableCollection<String> Pathologies 
+        {
+            get { return pathologies; }
+            set { pathologies = value; }
+        }
+        public DateTime Naissance
+        {
+            get { return naissance; }
+            set { naissance = value; }
+        }
+
+        public static int IdCourant
+        {
+            get { return idCourant;}
+            set { idCourant = value; }
+        }
 
         public Client() : this("nom", "prenom", 0, 0){ }
 

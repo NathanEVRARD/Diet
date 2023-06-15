@@ -11,7 +11,7 @@ namespace WPF.Commands
 {
     public class AjoutIngredientCommand : CommandBase
     {
-        public ObservableCollection<IngredientViewModel> _ingredients;
+        private ObservableCollection<IngredientViewModel> _ingredients;
         public override void Execute(object parameter)
         { 
             _ingredients.Add(new IngredientViewModel((AlimentViewModel)parameter));

@@ -12,8 +12,8 @@ TRACE;DEBUG;NET;NET7_0;NETCOREAPP
 C:\Users\natha\OneDrive\Documents\CS\WPF\App.xaml
 81215181996
 
-401224705842
-199-588499982
+42849305917
+200214254276
 MainWindow.xaml;MVVM\View\AlimentView.xaml;MVVM\View\ClientView.xaml;MVVM\View\PlanView.xaml;Windows\AjoutAliment.xaml;Windows\AjoutClient.xaml;Windows\AjoutIngredient.xaml;Windows\AjoutMenu.xaml;
 
 False

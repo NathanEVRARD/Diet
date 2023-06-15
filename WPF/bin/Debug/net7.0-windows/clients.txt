@@ -1,0 +1,2 @@
+{"Id":5,"Nom":"Evrard","Prenom":"Nathan","Taille":172,"Poids":63.0,"Bmi":21.3,"Plan":[],"Pathologies":[],"Naissance":"2023-06-15T00:00:00"}
+[{"Nom":"Biscotte","Quantite":100.0,"Kcal":398.5,"Frequence":7,"Glucides":73.6,"Proteines":12.3,"Lipides":6.1,"Fibres":4.0,"Fer":2.6,"VitC":0.0,"Calcium":31.0,"FqGlucides":73.6,"FqProteines":12.3,"FqLipides":6.1,"FqFibres":4.0,"FqFer":2.6,"FqVitC":0.0,"FqCalcium":31.0,"HasErrors":false}]

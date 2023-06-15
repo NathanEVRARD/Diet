@@ -17,7 +17,7 @@
             <TextBlock Text="{Binding Client.Prenom}" Margin="5" FontSize="24"></TextBlock>
         </StackPanel>
         
-        <DataGrid HorizontalAlignment="Center" Margin="10, 50, 15, 0" VerticalAlignment="Top" ItemsSource="{Binding Ingredients}" SelectedItem="{Binding SelectedIngredient}" AutoGenerateColumns="False">
+        <DataGrid HorizontalAlignment="Center" Margin="10, 50, 15, 0" VerticalAlignment="Top" ItemsSource="{Binding Ingredients}" SelectedItem="{Binding SelectedIngredient}" AutoGenerateColumns="False" CanUserAddRows="False">
             <DataGrid.Resources>
                 <Style TargetType="{x:Type DataGridColumnHeader}">
                     <Setter Property="FontWeight" Value="SemiBold"></Setter>
@@ -48,6 +48,10 @@
                     <ColumnDefinition></ColumnDefinition>
                     <ColumnDefinition></ColumnDefinition>
                 </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
                 <TextBlock Grid.Column="0" Grid.ColumnSpan="2" VerticalAlignment="Top" Margin="5" HorizontalAlignment="Center" Text="{Binding SelectedIngredient.Nom}" FontSize="24"></TextBlock>
                 <StackPanel Grid.Column="0" Margin="5, 50, 5, 5">
                     <Label Content="Nom"></Label>
@@ -88,6 +92,28 @@
                     <TextBox Text="{Binding SelectedIngredient.FqCalcium, UpdateSourceTrigger=PropertyChanged}" IsEnabled="False"></TextBox>
                     <Label Content="Vitamine C (Freq)"></Label>
                     <TextBox Text="{Binding SelectedIngredient.FqVitC, UpdateSourceTrigger=PropertyChanged}" IsEnabled="False"></TextBox>
+                </StackPanel>
+                <StackPanel Grid.Row="1">
+                    <TextBlock Text="TOTAL" FontSize="20" Margin="5"></TextBlock>
+                    <Button Content="Calculer Total" Command="{Binding CalculerTotalCommand}" Margin="5"></Button>
+                    <StackPanel Grid.Row="1" Margin="5">
+                        <Label Content="Kcalories"></Label>
+                        <TextBox Text="{Binding Total.Kcal}" IsEnabled="False"></TextBox>
+                        <Label Content="Glucides"></Label>
+                        <TextBox Text="{Binding Total.Glucides}" IsEnabled="False"></TextBox>
+                        <Label Content="Protéines"></Label>
+                        <TextBox Text="{Binding Total.Proteines}" IsEnabled="False"></TextBox>
+                        <Label Content="Lipides"></Label>
+                        <TextBox Text="{Binding Total.Lipides}" IsEnabled="False"></TextBox>
+                        <Label Content="Fibres"></Label>
+                        <TextBox Text="{Binding Total.Fibres}" IsEnabled="False"></TextBox>
+                        <Label Content="Calcium"></Label>
+                        <TextBox Text="{Binding Total.Calcium}" IsEnabled="False"></TextBox>
+                        <Label Content="Fer"></Label>
+                        <TextBox Text="{Binding Total.Fer}" IsEnabled="False"></TextBox>
+                        <Label Content="Vitamine C"></Label>
+                        <TextBox Text="{Binding Total.VitC}" IsEnabled="False"></TextBox>
+                    </StackPanel>
                 </StackPanel>
             </Grid>
         </ScrollViewer>
