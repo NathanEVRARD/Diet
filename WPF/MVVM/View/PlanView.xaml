@@ -13,9 +13,10 @@
         </Grid.ColumnDefinitions>
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
             <TextBlock Text="Plan de" Margin="5" FontSize="24"></TextBlock>
-            <TextBlock Text="{Binding PlanClient.Nom}" Margin="5" FontSize="24"></TextBlock>
-            <TextBlock Text="{Binding PlanClient.Prenom}" Margin="5" FontSize="24"></TextBlock>
+            <TextBlock Text="{Binding Client.Nom}" Margin="5" FontSize="24"></TextBlock>
+            <TextBlock Text="{Binding Client.Prenom}" Margin="5" FontSize="24"></TextBlock>
         </StackPanel>
+        
         <DataGrid HorizontalAlignment="Center" Margin="10, 50, 15, 0" VerticalAlignment="Top" ItemsSource="{Binding Ingredients}" SelectedItem="{Binding SelectedIngredient}" AutoGenerateColumns="False">
             <DataGrid.Resources>
                 <Style TargetType="{x:Type DataGridColumnHeader}">
@@ -39,6 +40,7 @@
                 <DataGridTextColumn Header="Lipides" Binding="{Binding Lipides, Mode=OneWay}"></DataGridTextColumn>
             </DataGrid.Columns>
         </DataGrid>
+        <Button Grid.Column="0" Height="25" VerticalAlignment="Top" HorizontalAlignment="Right" Margin="5" Content="Ajouter un ingrédient" Command="{Binding AjouterIngredientCommand}"></Button>
         <Border Grid.Column="1" BorderThickness="2, 0, 0, 0" BorderBrush="DarkGray"></Border>
         <ScrollViewer Grid.Column="1" VerticalScrollBarVisibility="Hidden">
             <Grid>

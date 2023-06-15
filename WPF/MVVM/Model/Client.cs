@@ -76,12 +76,10 @@ namespace MaLib
             }
             return chaine;
         }
-
         public float calculBmi()
         {
             return Poids / (((float)Taille / 100) * ((float)Taille / 100));
         }
-
         public void Affiche()
         {
             Console.WriteLine(ToString());

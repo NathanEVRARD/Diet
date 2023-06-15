@@ -22,6 +22,9 @@
     <Compile Update="Windows\AjoutClient.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Windows\AjoutIngredient.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Windows\AjoutMenu.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -43,6 +46,9 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Windows\AjoutClient.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\AjoutIngredient.xaml">
       <SubType>Designer</SubType>
     </Page>
     <Page Update="Windows\AjoutMenu.xaml">

@@ -18,6 +18,8 @@ namespace WPF.MVVM.ViewModel
         private ObservableCollection<ClientViewModel> _clients;
         public IEnumerable<ClientViewModel> Clients => _clients;
 
+        private ObservableCollection<AlimentViewModel> _aliments;
+
         private ClientViewModel? _selectedClient;
         private NavigationStore _navigationStore;
 
@@ -52,10 +54,12 @@ namespace WPF.MVVM.ViewModel
             Client.idCourant = 1;
             _clients = new ObservableCollection<ClientViewModel>();
             _navigationStore = navigationStore;
+            _aliments = aliments;
+
 
             AjouterClientCommand = new AjouterClientCommand(_clients);
             SupprimerClientCommand = new SupprimerClientCommand(_clients);
-            NavigatePlanCommand = new NavigateCommand<PlanViewModel>(navigationStore, () => new PlanViewModel(_selectedClient, aliments, navigationStore));
+            NavigatePlanCommand = new NavigateCommand<PlanViewModel>(navigationStore, () => new PlanViewModel(_selectedClient, _aliments, navigationStore));
 
             Client nathan = new Client("Evrard", "Nathan", 173, 63);
             Client alyssia = new Client("Dubuffet", "Alyssia", 160, 52);

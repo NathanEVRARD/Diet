@@ -84,3 +84,41 @@ C:\Users\natha\Documents\Mes Cours\B2\Q2\Labo\C# Labo\CS\WPF\obj\Debug\net7.0-wi
 C:\Users\natha\Documents\Mes Cours\B2\Q2\Labo\C# Labo\CS\WPF\obj\Debug\net7.0-windows\MVVM\View\PlanView.baml
 C:\Users\natha\Documents\Mes Cours\B2\Q2\Labo\C# Labo\CS\WPF\bin\Debug\net7.0-windows\CsvHelper.dll
 C:\Users\natha\Documents\Mes Cours\B2\Q2\Labo\C# Labo\CS\WPF\obj\Debug\net7.0-windows\WPF.csproj.CopyComplete
+C:\Users\natha\OneDrive\Documents\CS\WPF\bin\Debug\net7.0-windows\WPF.exe
+C:\Users\natha\OneDrive\Documents\CS\WPF\bin\Debug\net7.0-windows\WPF.deps.json
+C:\Users\natha\OneDrive\Documents\CS\WPF\bin\Debug\net7.0-windows\WPF.runtimeconfig.json
+C:\Users\natha\OneDrive\Documents\CS\WPF\bin\Debug\net7.0-windows\WPF.dll
+C:\Users\natha\OneDrive\Documents\CS\WPF\bin\Debug\net7.0-windows\WPF.pdb
+C:\Users\natha\OneDrive\Documents\CS\WPF\bin\Debug\net7.0-windows\CsvHelper.dll
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\WPF.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\MVVM\View\AlimentView.g.cs
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\MVVM\View\ClientView.g.cs
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\MVVM\View\PlanView.g.cs
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\Windows\AjoutAliment.g.cs
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\Windows\AjoutClient.g.cs
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\Windows\AjoutMenu.g.cs
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\WPF_MarkupCompile.cache
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\WPF_MarkupCompile.lref
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\MVVM\View\AlimentView.baml
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\MVVM\View\ClientView.baml
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\MVVM\View\PlanView.baml
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\Windows\AjoutAliment.baml
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\Windows\AjoutClient.baml
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\Windows\AjoutMenu.baml
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\WPF.g.resources
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\WPF.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\WPF.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\WPF.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\WPF.csproj.CopyComplete
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\WPF.dll
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\refint\WPF.dll
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\WPF.pdb
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\WPF.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\ref\WPF.dll
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\Windows\AjoutIngredient.g.cs
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\Windows\AjoutIngredient.baml

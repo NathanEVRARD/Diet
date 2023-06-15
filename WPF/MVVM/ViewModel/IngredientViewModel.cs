@@ -21,6 +21,19 @@ namespace WPF.MVVM.ViewModel
             _model = model;
         }
 
+        public IngredientViewModel(AlimentViewModel model)
+        {
+            _model = new Ingredient();
+            _model.Nom = model.Nom;
+            _model.Lipides = model.Lipides;
+            _model.Proteines = model.Proteines;
+            _model.Fer = model.Fer;
+            _model.VitC = model.VitC;
+            _model.Fibres = model.Fibres;
+            _model.Calcium = model.Calcium;
+            _model.Kcal = _model.calculKcal();
+        }
+
         public String Nom
         {
             get { return _model.Nom; }

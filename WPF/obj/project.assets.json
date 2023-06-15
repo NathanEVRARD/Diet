@@ -49,19 +49,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\natha\\.nuget\\packages\\": {}
+    "C:\\Users\\natha\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\natha\\Documents\\Mes Cours\\B2\\Q2\\Labo\\C# Labo\\CS\\WPF\\WPF.csproj",
+      "projectUniqueName": "C:\\Users\\natha\\OneDrive\\Documents\\CS\\WPF\\WPF.csproj",
       "projectName": "WPF",
-      "projectPath": "C:\\Users\\natha\\Documents\\Mes Cours\\B2\\Q2\\Labo\\C# Labo\\CS\\WPF\\WPF.csproj",
+      "projectPath": "C:\\Users\\natha\\OneDrive\\Documents\\CS\\WPF\\WPF.csproj",
       "packagesPath": "C:\\Users\\natha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\natha\\Documents\\Mes Cours\\B2\\Q2\\Labo\\C# Labo\\CS\\WPF\\obj\\",
+      "outputPath": "C:\\Users\\natha\\OneDrive\\Documents\\CS\\WPF\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\natha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -111,7 +116,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

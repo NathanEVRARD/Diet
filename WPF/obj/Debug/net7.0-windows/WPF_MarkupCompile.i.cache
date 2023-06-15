@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\natha\Documents\Mes Cours\B2\Q2\Labo\C# Labo\CS\WPF\obj\Debug\net7.0-windows\
+C:\Users\natha\OneDrive\Documents\CS\WPF\obj\Debug\net7.0-windows\
 WPF
 none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
-C:\Users\natha\Documents\Mes Cours\B2\Q2\Labo\C# Labo\CS\WPF\App.xaml
-72142502571
+C:\Users\natha\OneDrive\Documents\CS\WPF\App.xaml
+81215181996
 
-38-1635068193
-199-504768948
-MainWindow.xaml;MVVM\View\AlimentView.xaml;MVVM\View\ClientView.xaml;MVVM\View\PlanView.xaml;Windows\AjoutAliment.xaml;Windows\AjoutClient.xaml;Windows\AjoutMenu.xaml;
+42-601891041
+199-588499982
+MainWindow.xaml;MVVM\View\AlimentView.xaml;MVVM\View\ClientView.xaml;MVVM\View\PlanView.xaml;Windows\AjoutAliment.xaml;Windows\AjoutClient.xaml;Windows\AjoutIngredient.xaml;Windows\AjoutMenu.xaml;
 
-True
+False
 
